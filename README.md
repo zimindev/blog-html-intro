@@ -1,8 +1,4 @@
-Ось англійський переклад вашого тексту:
-
----
-
-# **Introduction to HTML: First Lesson**
+№ **Introduction to HTML: First Lesson**
 
 HTML (HyperText Markup Language) is a markup language used to create web pages. It defines the **structure** of the content, but it doesn't handle design (that's done by CSS) or logic (that's JavaScript).
 
