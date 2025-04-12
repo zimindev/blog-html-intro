@@ -79,17 +79,87 @@ Create a file named `index.html` with the following code:
 </html>
 ```
 
-Open it in a browser — and you’ll see your first web page! 🎉
+Absolutely! Here's the **English version** of your blog post in the same structured, beginner-friendly style:
 
 ---
 
-## **6. What’s Next?**
-- **CSS** — for styling (colors, fonts, sizes).  
-- **JavaScript** — for interactivity (buttons, forms).  
-- **More HTML Tags** — tables, forms, media.
+# **Introduction to HTML: First Lesson**
 
-**💡 Tip:** Use [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) for deeper learning.
+Hello, future web developers! 🌐  
+Today we’re starting from the very beginning — **HTML** (HyperText Markup Language). It’s the foundation of every website. If a site is a house, then HTML is the framework. 🧱
 
 ---
 
-Now you know the basics of HTML! 🚀 Start experimenting with code to understand it better.
+## **What is HTML?**
+
+HTML is a markup language that defines the structure of a webpage. It tells the browser **what to display** — text, images, links, and more.
+
+---
+
+## **Basic HTML Document Structure**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Page</title>
+</head>
+<body>
+  <h1>Hello, world!</h1>
+  <p>This is my first HTML page.</p>
+</body>
+</html>
+```
+
+### 🔍 What’s Happening Here:
+- `<!DOCTYPE html>` – Tells the browser it’s an HTML5 document.
+- `<html>` – The root element of the page.
+- `<head>` – Metadata and settings for the page.
+- `<body>` – All visible content goes here.
+
+---
+
+## **Essential Beginner Tags**
+- `<h1>`–`<h6>` – Headings (largest to smallest)
+- `<p>` – Paragraphs of text
+- `<a>` – Links (anchors)
+- `<img>` – Images
+- `<ul>` / `<ol>` – Lists (unordered/ordered)
+- `<div>` – Generic container for layout and structure
+
+---
+
+## **Example: About Me Page**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+</head>
+<body>
+  <h1>Hi! I'm Alex</h1>
+  <p>I’m learning web development.</p>
+  <img src="me.jpg" alt="My Photo">
+  <a href="https://developer.mozilla.org/">Learn more on MDN</a>
+</body>
+</html>
+```
+
+---
+
+## **Free Learning Resources**
+All of these are 100% free and beginner-friendly:
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) – Official and in-depth HTML documentation  
+- [freeCodeCamp](https://www.freecodecamp.org/learn/) – Hands-on coding challenges  
+- [The Odin Project](https://www.theodinproject.com/) – Full curriculum for web development  
+- [HTML Dog](https://htmldog.com/guides/html/) – Straightforward HTML tutorials  
+- [Codecademy (Free Plan)](https://www.codecademy.com/learn/learn-html) – Interactive HTML courses
+
+---
+
+## **Final Thoughts**
+
+HTML is the first step to building websites. Learn the structure, write clean code, and keep practicing. It only gets more fun from here!
+
+Happy coding! 💻🚀
